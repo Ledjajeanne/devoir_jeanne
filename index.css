@@ -1,0 +1,19 @@
+h1{
+    width: 100%;
+    text-transform: uppercase;
+    text-align: center;
+    word-spacing: 30px;
+    letter-spacing: 5px;
+    text-decoration: underline;
+    background: linear-gradient(25deg, green, red, rgb(55, 104, 150));
+    padding: 20px;
+}
+img{
+    width: 100%;
+}
+h2{
+    color: blue;
+}
+h3{
+    color: blue;
+}
